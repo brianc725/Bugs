@@ -16,8 +16,15 @@ This will start a game using the field.txt as the file and 4 bugs, all of USCAnt
 # The field can be modified by using: 
 
 ‘*’ *characters designate pebbles which block movement of all insects1. Every field must have its perimeter consist entirely of pebbles.
-‘g’ characters specify the starting locations of baby grasshoppers. ‘0’, ‘1’, ‘2’ and ‘3’ specify the location of the four ant colonies’ anthills. ‘w’ characters specify pools of water.
+<br>
+‘g’ characters specify the starting locations of baby grasshoppers. 
+<br>
+‘0’, ‘1’, ‘2’ and ‘3’ specify the location of the four ant colonies’ anthills.
+<br>
+‘w’ characters specify pools of water.
+<br>
 ‘f’ characters specify piles of food.
+<br>
 ‘p’ characters specify poison.
 Space characters represent empty locations.
 
